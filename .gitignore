@@ -1,0 +1,32 @@
+# Data - too large for git
+data/
+
+# Model checkpoints - large binaries
+
+# Numpy arrays
+results/models/*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+runs/
+
+# Poster assets (generated)

@@ -1,0 +1,186 @@
+{
+  "group": "distance_only",
+  "n": 20,
+  "results": [
+    {
+      "mutation": "A226P",
+      "resnum": 226,
+      "wt_aa": "A",
+      "mut_aa": "P",
+      "esm_score": -0.8712,
+      "n_muts": 1,
+      "foldx_ddg": -2.207
+    },
+    {
+      "mutation": "A179V",
+      "resnum": 179,
+      "wt_aa": "A",
+      "mut_aa": "V",
+      "esm_score": -0.717,
+      "n_muts": 1,
+      "foldx_ddg": -1.3187
+    },
+    {
+      "mutation": "V134L",
+      "resnum": 134,
+      "wt_aa": "V",
+      "mut_aa": "L",
+      "esm_score": -0.4345,
+      "n_muts": 1,
+      "foldx_ddg": -1.229
+    },
+    {
+      "mutation": "G79P",
+      "resnum": 79,
+      "wt_aa": "G",
+      "mut_aa": "P",
+      "esm_score": -0.0716,
+      "n_muts": 1,
+      "foldx_ddg": -0.4652
+    },
+    {
+      "mutation": "S223P",
+      "resnum": 223,
+      "wt_aa": "S",
+      "mut_aa": "P",
+      "esm_score": -0.8217,
+      "n_muts": 1,
+      "foldx_ddg": -0.4302
+    },
+    {
+      "mutation": "M262L",
+      "resnum": 262,
+      "wt_aa": "M",
+      "mut_aa": "L",
+      "esm_score": -0.2451,
+      "n_muts": 1,
+      "foldx_ddg": -0.2925
+    },
+    {
+      "mutation": "G30M",
+      "resnum": 30,
+      "wt_aa": "G",
+      "mut_aa": "M",
+      "esm_score": -0.1282,
+      "n_muts": 1,
+      "foldx_ddg": 0.4125
+    },
+    {
+      "mutation": "I81V",
+      "resnum": 81,
+      "wt_aa": "I",
+      "mut_aa": "V",
+      "esm_score": -0.6838,
+      "n_muts": 1,
+      "foldx_ddg": 0.5191
+    },
+    {
+      "mutation": "N264G",
+      "resnum": 264,
+      "wt_aa": "N",
+      "mut_aa": "G",
+      "esm_score": -0.6264,
+      "n_muts": 1,
+      "foldx_ddg": 0.6762
+    },
+    {
+      "mutation": "I145L",
+      "resnum": 145,
+      "wt_aa": "I",
+      "mut_aa": "L",
+      "esm_score": -0.7665,
+      "n_muts": 1,
+      "foldx_ddg": 0.7153
+    },
+    {
+      "mutation": "F261Y",
+      "resnum": 261,
+      "wt_aa": "F",
+      "mut_aa": "Y",
+      "esm_score": -0.8015,
+      "n_muts": 1,
+      "foldx_ddg": 0.8572
+    },
+    {
+      "mutation": "F50Y",
+      "resnum": 50,
+      "wt_aa": "F",
+      "mut_aa": "Y",
+      "esm_score": -0.5135,
+      "n_muts": 1,
+      "foldx_ddg": 0.9999
+    },
+    {
+      "mutation": "G66A",
+      "resnum": 66,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -0.6866,
+      "n_muts": 1,
+      "foldx_ddg": 1.2065
+    },
+    {
+      "mutation": "N173D",
+      "resnum": 173,
+      "wt_aa": "N",
+      "mut_aa": "D",
+      "esm_score": -0.5501,
+      "n_muts": 1,
+      "foldx_ddg": 1.5328
+    },
+    {
+      "mutation": "M258F",
+      "resnum": 258,
+      "wt_aa": "M",
+      "mut_aa": "F",
+      "esm_score": -0.4636,
+      "n_muts": 1,
+      "foldx_ddg": 1.5459
+    },
+    {
+      "mutation": "M154I",
+      "resnum": 154,
+      "wt_aa": "M",
+      "mut_aa": "I",
+      "esm_score": -0.694,
+      "n_muts": 1,
+      "foldx_ddg": 1.6525
+    },
+    {
+      "mutation": "Y268A",
+      "resnum": 268,
+      "wt_aa": "Y",
+      "mut_aa": "A",
+      "esm_score": -0.8572,
+      "n_muts": 1,
+      "foldx_ddg": 3.8481
+    },
+    {
+      "mutation": "F106Y",
+      "resnum": 106,
+      "wt_aa": "F",
+      "mut_aa": "Y",
+      "esm_score": -0.3032,
+      "n_muts": 1,
+      "foldx_ddg": 3.9908
+    },
+    {
+      "mutation": "G98A",
+      "resnum": 98,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -0.4191,
+      "n_muts": 1,
+      "foldx_ddg": 4.0849
+    },
+    {
+      "mutation": "A272L",
+      "resnum": 272,
+      "wt_aa": "A",
+      "mut_aa": "L",
+      "esm_score": -0.4415,
+      "n_muts": 1,
+      "foldx_ddg": 7.6716
+    }
+  ]
+}

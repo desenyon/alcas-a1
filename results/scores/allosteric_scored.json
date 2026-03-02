@@ -1,0 +1,707 @@
+{
+  "group": "allosteric",
+  "wt_pAff": 4.946427459481143,
+  "n": 50,
+  "results": [
+    {
+      "mutation": "P60G",
+      "resnum": 60,
+      "wt_aa": "P",
+      "mut_aa": "G",
+      "esm_score": -1.0593,
+      "n_muts": 1,
+      "predicted_pAff": 4.9541,
+      "uncertainty": 0.8268,
+      "delta_vs_wt": 0.0077,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "L176V",
+      "resnum": 176,
+      "wt_aa": "L",
+      "mut_aa": "V",
+      "esm_score": -1.0089,
+      "n_muts": 1,
+      "predicted_pAff": 4.9539,
+      "uncertainty": 0.8303,
+      "delta_vs_wt": 0.0074,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "A82V",
+      "resnum": 82,
+      "wt_aa": "A",
+      "mut_aa": "V",
+      "esm_score": -0.9837,
+      "n_muts": 1,
+      "predicted_pAff": 4.9514,
+      "uncertainty": 0.8313,
+      "delta_vs_wt": 0.005,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "L176I",
+      "resnum": 176,
+      "wt_aa": "L",
+      "mut_aa": "I",
+      "esm_score": -1.0957,
+      "n_muts": 1,
+      "predicted_pAff": 4.951,
+      "uncertainty": 0.8347,
+      "delta_vs_wt": 0.0046,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "A179V",
+      "resnum": 179,
+      "wt_aa": "A",
+      "mut_aa": "V",
+      "esm_score": -0.717,
+      "n_muts": 1,
+      "predicted_pAff": 4.9502,
+      "uncertainty": 0.8306,
+      "delta_vs_wt": 0.0038,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "I81V",
+      "resnum": 81,
+      "wt_aa": "I",
+      "mut_aa": "V",
+      "esm_score": -0.6838,
+      "n_muts": 1,
+      "predicted_pAff": 4.948,
+      "uncertainty": 0.8319,
+      "delta_vs_wt": 0.0016,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "A82L",
+      "resnum": 82,
+      "wt_aa": "A",
+      "mut_aa": "L",
+      "esm_score": -1.2654,
+      "n_muts": 1,
+      "predicted_pAff": 4.9478,
+      "uncertainty": 0.8342,
+      "delta_vs_wt": 0.0013,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "V68I",
+      "resnum": 68,
+      "wt_aa": "V",
+      "mut_aa": "I",
+      "esm_score": -1.2967,
+      "n_muts": 1,
+      "predicted_pAff": 4.9474,
+      "uncertainty": 0.8384,
+      "delta_vs_wt": 0.001,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "T198V",
+      "resnum": 198,
+      "wt_aa": "T",
+      "mut_aa": "V",
+      "esm_score": -1.3626,
+      "n_muts": 1,
+      "predicted_pAff": 4.9471,
+      "uncertainty": 0.8323,
+      "delta_vs_wt": 0.0007,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "V68L",
+      "resnum": 68,
+      "wt_aa": "V",
+      "mut_aa": "L",
+      "esm_score": -1.2711,
+      "n_muts": 1,
+      "predicted_pAff": 4.9464,
+      "uncertainty": 0.8388,
+      "delta_vs_wt": -0.0001,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M258F",
+      "resnum": 258,
+      "wt_aa": "M",
+      "mut_aa": "F",
+      "esm_score": -0.4636,
+      "n_muts": 1,
+      "predicted_pAff": 4.9463,
+      "uncertainty": 0.8369,
+      "delta_vs_wt": -0.0001,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "V149I",
+      "resnum": 149,
+      "wt_aa": "V",
+      "mut_aa": "I",
+      "esm_score": -1.2327,
+      "n_muts": 1,
+      "predicted_pAff": 4.9458,
+      "uncertainty": 0.8387,
+      "delta_vs_wt": -0.0007,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "S61G",
+      "resnum": 61,
+      "wt_aa": "S",
+      "mut_aa": "G",
+      "esm_score": -1.1502,
+      "n_muts": 1,
+      "predicted_pAff": 4.9456,
+      "uncertainty": 0.8341,
+      "delta_vs_wt": -0.0008,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "I145F",
+      "resnum": 145,
+      "wt_aa": "I",
+      "mut_aa": "F",
+      "esm_score": -1.248,
+      "n_muts": 1,
+      "predicted_pAff": 4.9455,
+      "uncertainty": 0.836,
+      "delta_vs_wt": -0.0009,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "I109L",
+      "resnum": 109,
+      "wt_aa": "I",
+      "mut_aa": "L",
+      "esm_score": -0.9592,
+      "n_muts": 1,
+      "predicted_pAff": 4.9451,
+      "uncertainty": 0.8344,
+      "delta_vs_wt": -0.0013,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "V255L",
+      "resnum": 255,
+      "wt_aa": "V",
+      "mut_aa": "L",
+      "esm_score": -1.2018,
+      "n_muts": 1,
+      "predicted_pAff": 4.9446,
+      "uncertainty": 0.835,
+      "delta_vs_wt": -0.0019,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "F261Y",
+      "resnum": 261,
+      "wt_aa": "F",
+      "mut_aa": "Y",
+      "esm_score": -0.8015,
+      "n_muts": 1,
+      "predicted_pAff": 4.9445,
+      "uncertainty": 0.8397,
+      "delta_vs_wt": -0.0019,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "T67D",
+      "resnum": 67,
+      "wt_aa": "T",
+      "mut_aa": "D",
+      "esm_score": -1.081,
+      "n_muts": 1,
+      "predicted_pAff": 4.9445,
+      "uncertainty": 0.8361,
+      "delta_vs_wt": -0.002,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "I145L",
+      "resnum": 145,
+      "wt_aa": "I",
+      "mut_aa": "L",
+      "esm_score": -0.7665,
+      "n_muts": 1,
+      "predicted_pAff": 4.9442,
+      "uncertainty": 0.834,
+      "delta_vs_wt": -0.0023,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "F191L",
+      "resnum": 191,
+      "wt_aa": "F",
+      "mut_aa": "L",
+      "esm_score": -1.1642,
+      "n_muts": 1,
+      "predicted_pAff": 4.944,
+      "uncertainty": 0.8322,
+      "delta_vs_wt": -0.0024,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M262L+A179V",
+      "resnum": [
+        262,
+        179
+      ],
+      "mut_aa": [
+        "L",
+        "V"
+      ],
+      "esm_score": -0.9621,
+      "n_muts": 2,
+      "predicted_pAff": 4.9436,
+      "uncertainty": 0.832,
+      "delta_vs_wt": -0.0028,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "N173D",
+      "resnum": 173,
+      "wt_aa": "N",
+      "mut_aa": "D",
+      "esm_score": -0.5501,
+      "n_muts": 1,
+      "predicted_pAff": 4.9433,
+      "uncertainty": 0.8363,
+      "delta_vs_wt": -0.0032,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M258F+N173D",
+      "resnum": [
+        258,
+        173
+      ],
+      "mut_aa": [
+        "F",
+        "D"
+      ],
+      "esm_score": -1.0137,
+      "n_muts": 2,
+      "predicted_pAff": 4.9431,
+      "uncertainty": 0.8383,
+      "delta_vs_wt": -0.0034,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G155A",
+      "resnum": 155,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -1.1964,
+      "n_muts": 1,
+      "predicted_pAff": 4.9427,
+      "uncertainty": 0.8376,
+      "delta_vs_wt": -0.0038,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "V156A",
+      "resnum": 156,
+      "wt_aa": "V",
+      "mut_aa": "A",
+      "esm_score": -1.2885,
+      "n_muts": 1,
+      "predicted_pAff": 4.9421,
+      "uncertainty": 0.8394,
+      "delta_vs_wt": -0.0043,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "V108A",
+      "resnum": 108,
+      "wt_aa": "V",
+      "mut_aa": "A",
+      "esm_score": -0.9861,
+      "n_muts": 1,
+      "predicted_pAff": 4.9413,
+      "uncertainty": 0.8385,
+      "delta_vs_wt": -0.0051,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "T110A",
+      "resnum": 110,
+      "wt_aa": "T",
+      "mut_aa": "A",
+      "esm_score": -1.0719,
+      "n_muts": 1,
+      "predicted_pAff": 4.9413,
+      "uncertainty": 0.833,
+      "delta_vs_wt": -0.0052,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M262L+I81V",
+      "resnum": [
+        262,
+        81
+      ],
+      "mut_aa": [
+        "L",
+        "V"
+      ],
+      "esm_score": -0.9289,
+      "n_muts": 2,
+      "predicted_pAff": 4.941,
+      "uncertainty": 0.8337,
+      "delta_vs_wt": -0.0054,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "S169A",
+      "resnum": 169,
+      "wt_aa": "S",
+      "mut_aa": "A",
+      "esm_score": -0.9067,
+      "n_muts": 1,
+      "predicted_pAff": 4.9401,
+      "uncertainty": 0.837,
+      "delta_vs_wt": -0.0063,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+A179V",
+      "resnum": [
+        79,
+        179
+      ],
+      "mut_aa": [
+        "P",
+        "V"
+      ],
+      "esm_score": -0.7886,
+      "n_muts": 2,
+      "predicted_pAff": 4.9399,
+      "uncertainty": 0.8398,
+      "delta_vs_wt": -0.0065,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M262L",
+      "resnum": 262,
+      "wt_aa": "M",
+      "mut_aa": "L",
+      "esm_score": -0.2451,
+      "n_muts": 1,
+      "predicted_pAff": 4.9395,
+      "uncertainty": 0.8366,
+      "delta_vs_wt": -0.0069,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G98A",
+      "resnum": 98,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -0.4191,
+      "n_muts": 1,
+      "predicted_pAff": 4.9395,
+      "uncertainty": 0.836,
+      "delta_vs_wt": -0.0069,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M262L+M258F",
+      "resnum": [
+        262,
+        258
+      ],
+      "mut_aa": [
+        "L",
+        "F"
+      ],
+      "esm_score": -0.7087,
+      "n_muts": 2,
+      "predicted_pAff": 4.9395,
+      "uncertainty": 0.8385,
+      "delta_vs_wt": -0.007,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G98A+M258F",
+      "resnum": [
+        98,
+        258
+      ],
+      "mut_aa": [
+        "A",
+        "F"
+      ],
+      "esm_score": -0.8827,
+      "n_muts": 2,
+      "predicted_pAff": 4.9394,
+      "uncertainty": 0.8381,
+      "delta_vs_wt": -0.007,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G66A",
+      "resnum": 66,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -0.6866,
+      "n_muts": 1,
+      "predicted_pAff": 4.9389,
+      "uncertainty": 0.835,
+      "delta_vs_wt": -0.0075,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+I81V",
+      "resnum": [
+        79,
+        81
+      ],
+      "mut_aa": [
+        "P",
+        "V"
+      ],
+      "esm_score": -0.7554,
+      "n_muts": 2,
+      "predicted_pAff": 4.9381,
+      "uncertainty": 0.8404,
+      "delta_vs_wt": -0.0083,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M262L+I145L",
+      "resnum": [
+        262,
+        145
+      ],
+      "mut_aa": [
+        "L",
+        "L"
+      ],
+      "esm_score": -1.0116,
+      "n_muts": 2,
+      "predicted_pAff": 4.9372,
+      "uncertainty": 0.8356,
+      "delta_vs_wt": -0.0092,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M262L+N173D",
+      "resnum": [
+        262,
+        173
+      ],
+      "mut_aa": [
+        "L",
+        "D"
+      ],
+      "esm_score": -0.7952,
+      "n_muts": 2,
+      "predicted_pAff": 4.9364,
+      "uncertainty": 0.8379,
+      "delta_vs_wt": -0.01,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G98A+N173D",
+      "resnum": [
+        98,
+        173
+      ],
+      "mut_aa": [
+        "A",
+        "D"
+      ],
+      "esm_score": -0.9692,
+      "n_muts": 2,
+      "predicted_pAff": 4.9363,
+      "uncertainty": 0.8374,
+      "delta_vs_wt": -0.0101,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P",
+      "resnum": 79,
+      "wt_aa": "G",
+      "mut_aa": "P",
+      "esm_score": -0.0716,
+      "n_muts": 1,
+      "predicted_pAff": 4.936,
+      "uncertainty": 0.8439,
+      "delta_vs_wt": -0.0104,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+M258F",
+      "resnum": [
+        79,
+        258
+      ],
+      "mut_aa": [
+        "P",
+        "F"
+      ],
+      "esm_score": -0.5352,
+      "n_muts": 2,
+      "predicted_pAff": 4.9356,
+      "uncertainty": 0.8463,
+      "delta_vs_wt": -0.0108,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+I145L",
+      "resnum": [
+        79,
+        145
+      ],
+      "mut_aa": [
+        "P",
+        "L"
+      ],
+      "esm_score": -0.8381,
+      "n_muts": 2,
+      "predicted_pAff": 4.9341,
+      "uncertainty": 0.843,
+      "delta_vs_wt": -0.0123,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+F261Y",
+      "resnum": [
+        79,
+        261
+      ],
+      "mut_aa": [
+        "P",
+        "Y"
+      ],
+      "esm_score": -0.8731,
+      "n_muts": 2,
+      "predicted_pAff": 4.9341,
+      "uncertainty": 0.8487,
+      "delta_vs_wt": -0.0123,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+N173D",
+      "resnum": [
+        79,
+        173
+      ],
+      "mut_aa": [
+        "P",
+        "D"
+      ],
+      "esm_score": -0.6217,
+      "n_muts": 2,
+      "predicted_pAff": 4.933,
+      "uncertainty": 0.8452,
+      "delta_vs_wt": -0.0134,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M262L+G98A",
+      "resnum": [
+        262,
+        98
+      ],
+      "mut_aa": [
+        "L",
+        "A"
+      ],
+      "esm_score": -0.6642,
+      "n_muts": 2,
+      "predicted_pAff": 4.9324,
+      "uncertainty": 0.838,
+      "delta_vs_wt": -0.014,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "M262L+G66A",
+      "resnum": [
+        262,
+        66
+      ],
+      "mut_aa": [
+        "L",
+        "A"
+      ],
+      "esm_score": -0.9317,
+      "n_muts": 2,
+      "predicted_pAff": 4.9318,
+      "uncertainty": 0.837,
+      "delta_vs_wt": -0.0147,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+S169A",
+      "resnum": [
+        79,
+        169
+      ],
+      "mut_aa": [
+        "P",
+        "A"
+      ],
+      "esm_score": -0.9783,
+      "n_muts": 2,
+      "predicted_pAff": 4.9297,
+      "uncertainty": 0.846,
+      "delta_vs_wt": -0.0167,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+G98A",
+      "resnum": [
+        79,
+        98
+      ],
+      "mut_aa": [
+        "P",
+        "A"
+      ],
+      "esm_score": -0.4907,
+      "n_muts": 2,
+      "predicted_pAff": 4.9296,
+      "uncertainty": 0.8447,
+      "delta_vs_wt": -0.0168,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+M262L",
+      "resnum": [
+        79,
+        262
+      ],
+      "mut_aa": [
+        "P",
+        "L"
+      ],
+      "esm_score": -0.3167,
+      "n_muts": 2,
+      "predicted_pAff": 4.9293,
+      "uncertainty": 0.8456,
+      "delta_vs_wt": -0.0171,
+      "wt_pAff": 4.9464
+    },
+    {
+      "mutation": "G79P+G66A",
+      "resnum": [
+        79,
+        66
+      ],
+      "mut_aa": [
+        "P",
+        "A"
+      ],
+      "esm_score": -0.7582,
+      "n_muts": 2,
+      "predicted_pAff": 4.9289,
+      "uncertainty": 0.8436,
+      "delta_vs_wt": -0.0176,
+      "wt_pAff": 4.9464
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "box_center": [
+    -5.249,
+    2.27,
+    -13.751
+  ],
+  "box_size": [
+    25.0,
+    25.0,
+    25.0
+  ],
+  "exhaustiveness": 16,
+  "n_receptors": 7,
+  "n_ligands": 2,
+  "wt_bhet_score": -5.307,
+  "active_site_bhet_mean": -5.449,
+  "allosteric_bhet_mean": -5.462,
+  "delta_allo_vs_active": -0.014,
+  "p_value_one_sided": 0.65,
+  "all_results": [
+    {
+      "receptor": "WT",
+      "group": "wt",
+      "ligand": "BHET",
+      "vina_score": -5.307,
+      "delta_vs_wt": 0.0
+    },
+    {
+      "receptor": "WT",
+      "group": "wt",
+      "ligand": "MHET",
+      "vina_score": -5.052
+    },
+    {
+      "receptor": "Q182I",
+      "group": "active_site",
+      "ligand": "BHET",
+      "vina_score": -5.405,
+      "delta_vs_wt": -0.098
+    },
+    {
+      "receptor": "Q182I",
+      "group": "active_site",
+      "ligand": "MHET",
+      "vina_score": -4.967
+    },
+    {
+      "receptor": "E231V",
+      "group": "active_site",
+      "ligand": "BHET",
+      "vina_score": -5.475,
+      "delta_vs_wt": -0.168
+    },
+    {
+      "receptor": "E231V",
+      "group": "active_site",
+      "ligand": "MHET",
+      "vina_score": -5.136
+    },
+    {
+      "receptor": "Q182L",
+      "group": "active_site",
+      "ligand": "BHET",
+      "vina_score": -5.466,
+      "delta_vs_wt": -0.159
+    },
+    {
+      "receptor": "Q182L",
+      "group": "active_site",
+      "ligand": "MHET",
+      "vina_score": -4.972
+    },
+    {
+      "receptor": "G79P+S169A",
+      "group": "allosteric",
+      "ligand": "BHET",
+      "vina_score": -5.458,
+      "delta_vs_wt": -0.151
+    },
+    {
+      "receptor": "G79P+S169A",
+      "group": "allosteric",
+      "ligand": "MHET",
+      "vina_score": -5.002
+    },
+    {
+      "receptor": "G79P+A179V",
+      "group": "allosteric",
+      "ligand": "BHET",
+      "vina_score": -5.536,
+      "delta_vs_wt": -0.229
+    },
+    {
+      "receptor": "G79P+A179V",
+      "group": "allosteric",
+      "ligand": "MHET",
+      "vina_score": -5.069
+    },
+    {
+      "receptor": "G79P+M262L",
+      "group": "allosteric",
+      "ligand": "BHET",
+      "vina_score": -5.393,
+      "delta_vs_wt": -0.086
+    },
+    {
+      "receptor": "G79P+M262L",
+      "group": "allosteric",
+      "ligand": "MHET",
+      "vina_score": -5.04
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "n_candidates": 100,
+  "n_allosteric": 50,
+  "n_active_site": 50,
+  "weights": {
+    "foldx_ddg": 0.5,
+    "foldx_stab": 0.3,
+    "esmfold_rmsd": 0.2
+  },
+  "top_allosteric": [
+    {
+      "mutation": "G79P+M262L",
+      "composite_rank": 2,
+      "foldx_ddg": -1.6107,
+      "foldx_stab": -1.6084,
+      "esmfold_rmsd": 0.529,
+      "composite": 0.0297
+    },
+    {
+      "mutation": "G79P+A179V",
+      "composite_rank": 3,
+      "foldx_ddg": -1.7928,
+      "foldx_stab": -1.7586,
+      "esmfold_rmsd": 0.86,
+      "composite": 0.0344
+    },
+    {
+      "mutation": "M262L+A179V",
+      "composite_rank": 4,
+      "foldx_ddg": -1.3448,
+      "foldx_stab": -1.4801,
+      "esmfold_rmsd": null,
+      "composite": 0.04
+    },
+    {
+      "mutation": "A179V",
+      "composite_rank": 5,
+      "foldx_ddg": -1.3173,
+      "foldx_stab": -1.3187,
+      "esmfold_rmsd": null,
+      "composite": 0.0436
+    },
+    {
+      "mutation": "S169A",
+      "composite_rank": 7,
+      "foldx_ddg": -1.0935,
+      "foldx_stab": -1.1217,
+      "esmfold_rmsd": null,
+      "composite": 0.0541
+    }
+  ],
+  "top_active_site": [
+    {
+      "mutation": "Q182I",
+      "composite_rank": 1,
+      "foldx_ddg": -2.2047,
+      "foldx_stab": -2.2171,
+      "esmfold_rmsd": 0.347,
+      "composite": 0.0
+    },
+    {
+      "mutation": "Q182V",
+      "composite_rank": 6,
+      "foldx_ddg": -1.2517,
+      "foldx_stab": -1.2558,
+      "esmfold_rmsd": null,
+      "composite": 0.0468
+    },
+    {
+      "mutation": "N233K",
+      "composite_rank": 8,
+      "foldx_ddg": -0.9158,
+      "foldx_stab": -1.2132,
+      "esmfold_rmsd": null,
+      "composite": 0.0582
+    },
+    {
+      "mutation": "D186L",
+      "composite_rank": 10,
+      "foldx_ddg": -0.8874,
+      "foldx_stab": -0.9706,
+      "esmfold_rmsd": null,
+      "composite": 0.0633
+    },
+    {
+      "mutation": "E231V",
+      "composite_rank": 14,
+      "foldx_ddg": -1.3939,
+      "foldx_stab": -1.62,
+      "esmfold_rmsd": 1.815,
+      "composite": 0.0793
+    }
+  ],
+  "best_allosteric_recommendation": "G79P+M262L",
+  "correlation": {
+    "foldx_ddg_vs_stability": {
+      "r": 0.9962165293968179,
+      "p": 8.582917061698563e-106
+    },
+    "esm2_vs_foldx_ddg": {
+      "r": -0.12647295888997187,
+      "p": 0.20988905806916952
+    }
+  },
+  "bonferroni_alpha": 0.0125,
+  "bonferroni_results": [
+    {
+      "endpoint": "FoldX ddG (binding)",
+      "p": 0.001169,
+      "bonferroni": true
+    },
+    {
+      "endpoint": "FoldX stability",
+      "p": 0.000787,
+      "bonferroni": true
+    },
+    {
+      "endpoint": "Ablation: CF vs DO",
+      "p": 0.000558,
+      "bonferroni": true
+    },
+    {
+      "endpoint": "Ablation: ALCAS vs AS",
+      "p": 0.031946,
+      "bonferroni": false
+    }
+  ]
+}

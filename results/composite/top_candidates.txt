@@ -1,0 +1,78 @@
+ALCAS — Top Candidates for Experimental Follow-Up
+=======================================================
+
+Composite score = 0.50×norm(FoldX_ddG) + 0.30×norm(Stability) + 0.20×norm(RMSD)
+Lower composite = better (all metrics: lower raw value = better)
+
+TOP 5 ALLOSTERIC CANDIDATES
+---------------------------------------------
+#  2  G79P+M262L
+      FoldX ddG:   -1.611 kcal/mol
+      Stability:   -1.608 kcal/mol
+      RMSD vs WT:  0.529 Å
+      Composite:   0.0297
+
+#  3  G79P+A179V
+      FoldX ddG:   -1.793 kcal/mol
+      Stability:   -1.759 kcal/mol
+      RMSD vs WT:  0.860 Å
+      Composite:   0.0344
+
+#  4  M262L+A179V
+      FoldX ddG:   -1.345 kcal/mol
+      Stability:   -1.480 kcal/mol
+      RMSD vs WT:  N/A
+      Composite:   0.0400
+
+#  5  A179V
+      FoldX ddG:   -1.317 kcal/mol
+      Stability:   -1.319 kcal/mol
+      RMSD vs WT:  N/A
+      Composite:   0.0436
+
+#  7  S169A
+      FoldX ddG:   -1.093 kcal/mol
+      Stability:   -1.122 kcal/mol
+      RMSD vs WT:  N/A
+      Composite:   0.0541
+
+TOP 5 ACTIVE-SITE CANDIDATES
+---------------------------------------------
+#  1  Q182I
+      FoldX ddG:   -2.205 kcal/mol
+      Stability:   -2.217 kcal/mol
+      RMSD vs WT:  0.347 Å
+      Composite:   0.0000
+
+#  6  Q182V
+      FoldX ddG:   -1.252 kcal/mol
+      Stability:   -1.256 kcal/mol
+      RMSD vs WT:  N/A
+      Composite:   0.0468
+
+#  8  N233K
+      FoldX ddG:   -0.916 kcal/mol
+      Stability:   -1.213 kcal/mol
+      RMSD vs WT:  N/A
+      Composite:   0.0582
+
+# 10  D186L
+      FoldX ddG:   -0.887 kcal/mol
+      Stability:   -0.971 kcal/mol
+      RMSD vs WT:  N/A
+      Composite:   0.0633
+
+# 14  E231V
+      FoldX ddG:   -1.394 kcal/mol
+      Stability:   -1.620 kcal/mol
+      RMSD vs WT:  1.815 Å
+      Composite:   0.0793
+
+MULTIPLE COMPARISON CORRECTION
+---------------------------------------------
+Bonferroni alpha = 0.05 / 4 = 0.0125
+
+  FoldX ddG (binding)                  p=0.0012  SURVIVES
+  FoldX stability                      p=0.0008  SURVIVES
+  Ablation: CF vs DO                   p=0.0006  SURVIVES
+  Ablation: ALCAS vs AS                p=0.0319  does not survive

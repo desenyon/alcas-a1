@@ -1,0 +1,606 @@
+{
+  "group": "active_site",
+  "n": 50,
+  "results": [
+    {
+      "mutation": "Q182I",
+      "resnum": 182,
+      "wt_aa": "Q",
+      "mut_aa": "I",
+      "esm_score": -0.9516,
+      "n_muts": 1,
+      "foldx_ddg": -2.2047,
+      "mutation_str": "QA182I;"
+    },
+    {
+      "mutation": "E231V",
+      "resnum": 231,
+      "wt_aa": "E",
+      "mut_aa": "V",
+      "esm_score": -1.5153,
+      "n_muts": 1,
+      "foldx_ddg": -1.3939,
+      "mutation_str": "EA231V;"
+    },
+    {
+      "mutation": "Q182L",
+      "resnum": 182,
+      "wt_aa": "Q",
+      "mut_aa": "L",
+      "esm_score": -1.4963,
+      "n_muts": 1,
+      "foldx_ddg": -1.3046,
+      "mutation_str": "QA182L;"
+    },
+    {
+      "mutation": "Q182V",
+      "resnum": 182,
+      "wt_aa": "Q",
+      "mut_aa": "V",
+      "esm_score": -1.6031,
+      "n_muts": 1,
+      "foldx_ddg": -1.2517,
+      "mutation_str": "QA182V;"
+    },
+    {
+      "mutation": "N233K",
+      "resnum": 233,
+      "wt_aa": "N",
+      "mut_aa": "K",
+      "esm_score": -1.5599,
+      "n_muts": 1,
+      "foldx_ddg": -0.9158,
+      "mutation_str": "NA233K;"
+    },
+    {
+      "mutation": "D186L",
+      "resnum": 186,
+      "wt_aa": "D",
+      "mut_aa": "L",
+      "esm_score": -1.5107,
+      "n_muts": 1,
+      "foldx_ddg": -0.8874,
+      "mutation_str": "DA186L;"
+    },
+    {
+      "mutation": "S93D",
+      "resnum": 93,
+      "wt_aa": "S",
+      "mut_aa": "D",
+      "esm_score": -1.3735,
+      "n_muts": 1,
+      "foldx_ddg": -0.4072,
+      "mutation_str": "SA93D;"
+    },
+    {
+      "mutation": "I200L",
+      "resnum": 200,
+      "wt_aa": "I",
+      "mut_aa": "L",
+      "esm_score": -1.6296,
+      "n_muts": 1,
+      "foldx_ddg": -0.1822,
+      "mutation_str": "IA200L;"
+    },
+    {
+      "mutation": "S238A",
+      "resnum": 238,
+      "wt_aa": "S",
+      "mut_aa": "A",
+      "esm_score": -1.5779,
+      "n_muts": 1,
+      "foldx_ddg": -0.0905,
+      "mutation_str": "SA238A;"
+    },
+    {
+      "mutation": "E204S",
+      "resnum": 204,
+      "wt_aa": "E",
+      "mut_aa": "S",
+      "esm_score": -1.6979,
+      "n_muts": 1,
+      "foldx_ddg": 0.0742,
+      "mutation_str": "EA204S;"
+    },
+    {
+      "mutation": "S238G",
+      "resnum": 238,
+      "wt_aa": "S",
+      "mut_aa": "G",
+      "esm_score": -1.483,
+      "n_muts": 1,
+      "foldx_ddg": 0.1762,
+      "mutation_str": "SA238G;"
+    },
+    {
+      "mutation": "S236G",
+      "resnum": 236,
+      "wt_aa": "S",
+      "mut_aa": "G",
+      "esm_score": -1.3006,
+      "n_muts": 1,
+      "foldx_ddg": 0.3113,
+      "mutation_str": "SA236G;"
+    },
+    {
+      "mutation": "W159H+Q182I",
+      "resnum": [
+        159,
+        182
+      ],
+      "mut_aa": [
+        "H",
+        "I"
+      ],
+      "esm_score": -1.2128,
+      "n_muts": 2,
+      "foldx_ddg": 0.6735,
+      "mutation_str": "WA159H;QA182I;"
+    },
+    {
+      "mutation": "A89G",
+      "resnum": 89,
+      "wt_aa": "A",
+      "mut_aa": "G",
+      "esm_score": -0.6165,
+      "n_muts": 1,
+      "foldx_ddg": 0.7621,
+      "mutation_str": "AA89G;"
+    },
+    {
+      "mutation": "S213A",
+      "resnum": 213,
+      "wt_aa": "S",
+      "mut_aa": "A",
+      "esm_score": -1.5944,
+      "n_muts": 1,
+      "foldx_ddg": 0.8062,
+      "mutation_str": "SA213A;"
+    },
+    {
+      "mutation": "L216K",
+      "resnum": 216,
+      "wt_aa": "L",
+      "mut_aa": "K",
+      "esm_score": -1.4198,
+      "n_muts": 1,
+      "foldx_ddg": 0.9384,
+      "mutation_str": "LA216K;"
+    },
+    {
+      "mutation": "G235A",
+      "resnum": 235,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -0.7572,
+      "n_muts": 1,
+      "foldx_ddg": 1.08,
+      "mutation_str": "GA235A;"
+    },
+    {
+      "mutation": "F201L",
+      "resnum": 201,
+      "wt_aa": "F",
+      "mut_aa": "L",
+      "esm_score": -1.3004,
+      "n_muts": 1,
+      "foldx_ddg": 1.1417,
+      "mutation_str": "FA201L;"
+    },
+    {
+      "mutation": "I200V",
+      "resnum": 200,
+      "wt_aa": "I",
+      "mut_aa": "V",
+      "esm_score": -1.645,
+      "n_muts": 1,
+      "foldx_ddg": 1.1598,
+      "mutation_str": "IA200V;"
+    },
+    {
+      "mutation": "G164A",
+      "resnum": 164,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -1.445,
+      "n_muts": 1,
+      "foldx_ddg": 1.2242,
+      "mutation_str": "GA164A;"
+    },
+    {
+      "mutation": "F201I",
+      "resnum": 201,
+      "wt_aa": "F",
+      "mut_aa": "I",
+      "esm_score": -1.1991,
+      "n_muts": 1,
+      "foldx_ddg": 1.3512,
+      "mutation_str": "FA201I;"
+    },
+    {
+      "mutation": "L216R",
+      "resnum": 216,
+      "wt_aa": "L",
+      "mut_aa": "R",
+      "esm_score": -1.0188,
+      "n_muts": 1,
+      "foldx_ddg": 1.4047,
+      "mutation_str": "LA216R;"
+    },
+    {
+      "mutation": "I232V",
+      "resnum": 232,
+      "wt_aa": "I",
+      "mut_aa": "V",
+      "esm_score": -1.4017,
+      "n_muts": 1,
+      "foldx_ddg": 1.4233,
+      "mutation_str": "IA232V;"
+    },
+    {
+      "mutation": "A209V",
+      "resnum": 209,
+      "wt_aa": "A",
+      "mut_aa": "V",
+      "esm_score": -1.3335,
+      "n_muts": 1,
+      "foldx_ddg": 1.7781,
+      "mutation_str": "AA209V;"
+    },
+    {
+      "mutation": "A89G+G235A",
+      "resnum": [
+        89,
+        235
+      ],
+      "mut_aa": [
+        "G",
+        "A"
+      ],
+      "esm_score": -1.3737,
+      "n_muts": 2,
+      "foldx_ddg": 1.8421,
+      "mutation_str": "AA89G;GA235A;"
+    },
+    {
+      "mutation": "W159H",
+      "resnum": 159,
+      "wt_aa": "W",
+      "mut_aa": "H",
+      "esm_score": -0.2612,
+      "n_muts": 1,
+      "foldx_ddg": 2.5216,
+      "mutation_str": "WA159H;"
+    },
+    {
+      "mutation": "W159H+S236G",
+      "resnum": [
+        159,
+        236
+      ],
+      "mut_aa": [
+        "H",
+        "G"
+      ],
+      "esm_score": -1.5618,
+      "n_muts": 2,
+      "foldx_ddg": 2.8906,
+      "mutation_str": "WA159H;SA236G;"
+    },
+    {
+      "mutation": "W159H+A89G",
+      "resnum": [
+        159,
+        89
+      ],
+      "mut_aa": [
+        "H",
+        "G"
+      ],
+      "esm_score": -0.8777,
+      "n_muts": 2,
+      "foldx_ddg": 2.924,
+      "mutation_str": "WA159H;AA89G;"
+    },
+    {
+      "mutation": "C203G+Q182I",
+      "resnum": [
+        203,
+        182
+      ],
+      "mut_aa": [
+        "G",
+        "I"
+      ],
+      "esm_score": -1.5275,
+      "n_muts": 2,
+      "foldx_ddg": 3.4785,
+      "mutation_str": "CA203G;QA182I;"
+    },
+    {
+      "mutation": "W159H+G235A",
+      "resnum": [
+        159,
+        235
+      ],
+      "mut_aa": [
+        "H",
+        "A"
+      ],
+      "esm_score": -1.0184,
+      "n_muts": 2,
+      "foldx_ddg": 3.6447,
+      "mutation_str": "WA159H;GA235A;"
+    },
+    {
+      "mutation": "W159H+F201I",
+      "resnum": [
+        159,
+        201
+      ],
+      "mut_aa": [
+        "H",
+        "I"
+      ],
+      "esm_score": -1.4603,
+      "n_muts": 2,
+      "foldx_ddg": 3.9098,
+      "mutation_str": "WA159H;FA201I;"
+    },
+    {
+      "mutation": "W159H+L216R",
+      "resnum": [
+        159,
+        216
+      ],
+      "mut_aa": [
+        "H",
+        "R"
+      ],
+      "esm_score": -1.28,
+      "n_muts": 2,
+      "foldx_ddg": 3.9287,
+      "mutation_str": "WA159H;LA216R;"
+    },
+    {
+      "mutation": "P181V",
+      "resnum": 181,
+      "wt_aa": "P",
+      "mut_aa": "V",
+      "esm_score": -1.7052,
+      "n_muts": 1,
+      "foldx_ddg": 4.1959,
+      "mutation_str": "PA181V;"
+    },
+    {
+      "mutation": "C203A",
+      "resnum": 203,
+      "wt_aa": "C",
+      "mut_aa": "A",
+      "esm_score": -1.3655,
+      "n_muts": 1,
+      "foldx_ddg": 4.628,
+      "mutation_str": "CA203A;"
+    },
+    {
+      "mutation": "P184G",
+      "resnum": 184,
+      "wt_aa": "P",
+      "mut_aa": "G",
+      "esm_score": -1.2483,
+      "n_muts": 1,
+      "foldx_ddg": 4.7235,
+      "mutation_str": "PA184G;"
+    },
+    {
+      "mutation": "P85H",
+      "resnum": 85,
+      "wt_aa": "P",
+      "mut_aa": "H",
+      "esm_score": -0.8189,
+      "n_muts": 1,
+      "foldx_ddg": 5.2993,
+      "mutation_str": "PA85H;"
+    },
+    {
+      "mutation": "C203G",
+      "resnum": 203,
+      "wt_aa": "C",
+      "mut_aa": "G",
+      "esm_score": -0.5759,
+      "n_muts": 1,
+      "foldx_ddg": 5.6245,
+      "mutation_str": "CA203G;"
+    },
+    {
+      "mutation": "A89G+P85H",
+      "resnum": [
+        89,
+        85
+      ],
+      "mut_aa": [
+        "G",
+        "H"
+      ],
+      "esm_score": -1.4354,
+      "n_muts": 2,
+      "foldx_ddg": 6.028,
+      "mutation_str": "AA89G;PA85H;"
+    },
+    {
+      "mutation": "C203G+A89G",
+      "resnum": [
+        203,
+        89
+      ],
+      "mut_aa": [
+        "G",
+        "G"
+      ],
+      "esm_score": -1.1924,
+      "n_muts": 2,
+      "foldx_ddg": 6.364,
+      "mutation_str": "CA203G;AA89G;"
+    },
+    {
+      "mutation": "C203G+G235A",
+      "resnum": [
+        203,
+        235
+      ],
+      "mut_aa": [
+        "G",
+        "A"
+      ],
+      "esm_score": -1.3331,
+      "n_muts": 2,
+      "foldx_ddg": 6.3899,
+      "mutation_str": "CA203G;GA235A;"
+    },
+    {
+      "mutation": "W159H+P184G",
+      "resnum": [
+        159,
+        184
+      ],
+      "mut_aa": [
+        "H",
+        "G"
+      ],
+      "esm_score": -1.5095,
+      "n_muts": 2,
+      "foldx_ddg": 7.2465,
+      "mutation_str": "WA159H;PA184G;"
+    },
+    {
+      "mutation": "W159H+P85H",
+      "resnum": [
+        159,
+        85
+      ],
+      "mut_aa": [
+        "H",
+        "H"
+      ],
+      "esm_score": -1.0801,
+      "n_muts": 2,
+      "foldx_ddg": 7.9472,
+      "mutation_str": "WA159H;PA85H;"
+    },
+    {
+      "mutation": "W159H+C203G",
+      "resnum": [
+        159,
+        203
+      ],
+      "mut_aa": [
+        "H",
+        "G"
+      ],
+      "esm_score": -0.8371,
+      "n_muts": 2,
+      "foldx_ddg": 8.2004,
+      "mutation_str": "WA159H;CA203G;"
+    },
+    {
+      "mutation": "C239F",
+      "resnum": 239,
+      "wt_aa": "C",
+      "mut_aa": "F",
+      "esm_score": -0.6896,
+      "n_muts": 1,
+      "foldx_ddg": 9.7334,
+      "mutation_str": "CA239F;"
+    },
+    {
+      "mutation": "A89G+C239F",
+      "resnum": [
+        89,
+        239
+      ],
+      "mut_aa": [
+        "G",
+        "F"
+      ],
+      "esm_score": -1.3061,
+      "n_muts": 2,
+      "foldx_ddg": 10.4955,
+      "mutation_str": "AA89G;CA239F;"
+    },
+    {
+      "mutation": "C203G+P85H",
+      "resnum": [
+        203,
+        85
+      ],
+      "mut_aa": [
+        "G",
+        "H"
+      ],
+      "esm_score": -1.3948,
+      "n_muts": 2,
+      "foldx_ddg": 10.8928,
+      "mutation_str": "CA203G;PA85H;"
+    },
+    {
+      "mutation": "C203G+C239F",
+      "resnum": [
+        203,
+        239
+      ],
+      "mut_aa": [
+        "G",
+        "F"
+      ],
+      "esm_score": -1.2655,
+      "n_muts": 2,
+      "foldx_ddg": 12.2056,
+      "mutation_str": "CA203G;CA239F;"
+    },
+    {
+      "mutation": "W159H+C239F",
+      "resnum": [
+        159,
+        239
+      ],
+      "mut_aa": [
+        "H",
+        "F"
+      ],
+      "esm_score": -0.9508,
+      "n_muts": 2,
+      "foldx_ddg": 12.5974,
+      "mutation_str": "WA159H;CA239F;"
+    },
+    {
+      "mutation": "C239F+G235A",
+      "resnum": [
+        239,
+        235
+      ],
+      "mut_aa": [
+        "F",
+        "A"
+      ],
+      "esm_score": -1.4468,
+      "n_muts": 2,
+      "foldx_ddg": 14.9134,
+      "mutation_str": "CA239F;GA235A;"
+    },
+    {
+      "mutation": "C239F+P85H",
+      "resnum": [
+        239,
+        85
+      ],
+      "mut_aa": [
+        "F",
+        "H"
+      ],
+      "esm_score": -1.5085,
+      "n_muts": 2,
+      "foldx_ddg": 15.0629,
+      "mutation_str": "CA239F;PA85H;"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "wt_pAff": 4.9464,
+  "active_site_mean": 4.9478,
+  "active_site_std": 0.0048,
+  "active_site_top1": 4.9584,
+  "active_site_top1_mut": "W159H+P184G",
+  "allosteric_mean": 4.9413,
+  "allosteric_std": 0.0063,
+  "allosteric_top1": 4.9541,
+  "allosteric_top1_mut": "P60G",
+  "delta_mean": -0.0065,
+  "ci_95_lo": -0.0087,
+  "ci_95_hi": -0.0043,
+  "mann_whitney_u": 537.0,
+  "p_value_one_sided": 1.0,
+  "p_value_two_sided": 1e-06
+}

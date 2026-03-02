@@ -1,0 +1,18 @@
+{
+  "active_site_n": 50,
+  "active_site_mean_ddg": 3.7227,
+  "active_site_std_ddg": 4.4662,
+  "active_site_top1_mut": "Q182I",
+  "active_site_top1_ddg": -2.2171,
+  "allosteric_n": 50,
+  "allosteric_mean_ddg": 1.3045,
+  "allosteric_std_ddg": 3.0872,
+  "allosteric_top1_mut": "G79P+A179V",
+  "allosteric_top1_ddg": -1.7586,
+  "delta_mean_ddg": -2.4182,
+  "ci_95_lo": -3.8706,
+  "ci_95_hi": -0.9191,
+  "mann_whitney_u": 791.0,
+  "p_value_one_sided": 0.000787,
+  "p_value_two_sided": 0.001573
+}

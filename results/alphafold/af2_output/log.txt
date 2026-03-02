@@ -1,0 +1,7 @@
+2026-03-02 01:11:25,181 Running colabfold 1.5.5
+2026-03-02 01:11:37,640 Unable to initialize backend 'cuda': 
+2026-03-02 01:11:37,640 Unable to initialize backend 'rocm': module 'jaxlib.xla_extension' has no attribute 'GpuAllocatorConfig'
+2026-03-02 01:11:37,641 Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+2026-03-02 01:11:37,641 An NVIDIA GPU may be present on this machine, but a CUDA-enabled jaxlib is not installed. Falling back to cpu.
+2026-03-02 01:11:37,641 WARNING: no GPU detected, will be using CPU
+2026-03-02 01:11:38,261 generated new fontManager

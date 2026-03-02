@@ -1,0 +1,65 @@
+[
+  {
+    "name": "WT",
+    "group": "wt",
+    "plddt": 0.92,
+    "rmsd_vs_wt": 0.0,
+    "triad_S160_H237": 7.92,
+    "triad_H237_D206": 4.43,
+    "triad_S160_D206": 10.39
+  },
+  {
+    "name": "Q182I",
+    "group": "active_site",
+    "plddt": 0.92,
+    "rmsd_vs_wt": 0.347,
+    "triad_S160_H237": 7.94,
+    "triad_H237_D206": 4.45,
+    "triad_S160_D206": 10.39
+  },
+  {
+    "name": "E231V",
+    "group": "active_site",
+    "plddt": 0.92,
+    "rmsd_vs_wt": 1.815,
+    "triad_S160_H237": 7.93,
+    "triad_H237_D206": 4.44,
+    "triad_S160_D206": 10.41
+  },
+  {
+    "name": "Q182L",
+    "group": "active_site",
+    "plddt": 0.91,
+    "rmsd_vs_wt": 6.167,
+    "triad_S160_H237": 7.93,
+    "triad_H237_D206": 4.48,
+    "triad_S160_D206": 10.46
+  },
+  {
+    "name": "G79P+S169A",
+    "group": "allosteric",
+    "plddt": 0.92,
+    "rmsd_vs_wt": 1.859,
+    "triad_S160_H237": 7.91,
+    "triad_H237_D206": 4.43,
+    "triad_S160_D206": 10.38
+  },
+  {
+    "name": "G79P+A179V",
+    "group": "allosteric",
+    "plddt": 0.92,
+    "rmsd_vs_wt": 0.86,
+    "triad_S160_H237": 7.94,
+    "triad_H237_D206": 4.42,
+    "triad_S160_D206": 10.41
+  },
+  {
+    "name": "G79P+M262L",
+    "group": "allosteric",
+    "plddt": 0.92,
+    "rmsd_vs_wt": 0.529,
+    "triad_S160_H237": 7.92,
+    "triad_H237_D206": 4.42,
+    "triad_S160_D206": 10.39
+  }
+]

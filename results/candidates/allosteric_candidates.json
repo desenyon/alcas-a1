@@ -1,0 +1,506 @@
+{
+  "group": "allosteric",
+  "n_total": 50,
+  "candidates": [
+    {
+      "mutation": "G79P",
+      "resnum": 79,
+      "wt_aa": "G",
+      "mut_aa": "P",
+      "esm_score": -0.0716,
+      "n_muts": 1
+    },
+    {
+      "mutation": "M262L",
+      "resnum": 262,
+      "wt_aa": "M",
+      "mut_aa": "L",
+      "esm_score": -0.2451,
+      "n_muts": 1
+    },
+    {
+      "mutation": "G98A",
+      "resnum": 98,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -0.4191,
+      "n_muts": 1
+    },
+    {
+      "mutation": "M258F",
+      "resnum": 258,
+      "wt_aa": "M",
+      "mut_aa": "F",
+      "esm_score": -0.4636,
+      "n_muts": 1
+    },
+    {
+      "mutation": "N173D",
+      "resnum": 173,
+      "wt_aa": "N",
+      "mut_aa": "D",
+      "esm_score": -0.5501,
+      "n_muts": 1
+    },
+    {
+      "mutation": "I81V",
+      "resnum": 81,
+      "wt_aa": "I",
+      "mut_aa": "V",
+      "esm_score": -0.6838,
+      "n_muts": 1
+    },
+    {
+      "mutation": "G66A",
+      "resnum": 66,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -0.6866,
+      "n_muts": 1
+    },
+    {
+      "mutation": "A179V",
+      "resnum": 179,
+      "wt_aa": "A",
+      "mut_aa": "V",
+      "esm_score": -0.717,
+      "n_muts": 1
+    },
+    {
+      "mutation": "I145L",
+      "resnum": 145,
+      "wt_aa": "I",
+      "mut_aa": "L",
+      "esm_score": -0.7665,
+      "n_muts": 1
+    },
+    {
+      "mutation": "F261Y",
+      "resnum": 261,
+      "wt_aa": "F",
+      "mut_aa": "Y",
+      "esm_score": -0.8015,
+      "n_muts": 1
+    },
+    {
+      "mutation": "S169A",
+      "resnum": 169,
+      "wt_aa": "S",
+      "mut_aa": "A",
+      "esm_score": -0.9067,
+      "n_muts": 1
+    },
+    {
+      "mutation": "I109L",
+      "resnum": 109,
+      "wt_aa": "I",
+      "mut_aa": "L",
+      "esm_score": -0.9592,
+      "n_muts": 1
+    },
+    {
+      "mutation": "A82V",
+      "resnum": 82,
+      "wt_aa": "A",
+      "mut_aa": "V",
+      "esm_score": -0.9837,
+      "n_muts": 1
+    },
+    {
+      "mutation": "V108A",
+      "resnum": 108,
+      "wt_aa": "V",
+      "mut_aa": "A",
+      "esm_score": -0.9861,
+      "n_muts": 1
+    },
+    {
+      "mutation": "L176V",
+      "resnum": 176,
+      "wt_aa": "L",
+      "mut_aa": "V",
+      "esm_score": -1.0089,
+      "n_muts": 1
+    },
+    {
+      "mutation": "P60G",
+      "resnum": 60,
+      "wt_aa": "P",
+      "mut_aa": "G",
+      "esm_score": -1.0593,
+      "n_muts": 1
+    },
+    {
+      "mutation": "T110A",
+      "resnum": 110,
+      "wt_aa": "T",
+      "mut_aa": "A",
+      "esm_score": -1.0719,
+      "n_muts": 1
+    },
+    {
+      "mutation": "T67D",
+      "resnum": 67,
+      "wt_aa": "T",
+      "mut_aa": "D",
+      "esm_score": -1.081,
+      "n_muts": 1
+    },
+    {
+      "mutation": "L176I",
+      "resnum": 176,
+      "wt_aa": "L",
+      "mut_aa": "I",
+      "esm_score": -1.0957,
+      "n_muts": 1
+    },
+    {
+      "mutation": "S61G",
+      "resnum": 61,
+      "wt_aa": "S",
+      "mut_aa": "G",
+      "esm_score": -1.1502,
+      "n_muts": 1
+    },
+    {
+      "mutation": "F191L",
+      "resnum": 191,
+      "wt_aa": "F",
+      "mut_aa": "L",
+      "esm_score": -1.1642,
+      "n_muts": 1
+    },
+    {
+      "mutation": "G155A",
+      "resnum": 155,
+      "wt_aa": "G",
+      "mut_aa": "A",
+      "esm_score": -1.1964,
+      "n_muts": 1
+    },
+    {
+      "mutation": "V255L",
+      "resnum": 255,
+      "wt_aa": "V",
+      "mut_aa": "L",
+      "esm_score": -1.2018,
+      "n_muts": 1
+    },
+    {
+      "mutation": "V149I",
+      "resnum": 149,
+      "wt_aa": "V",
+      "mut_aa": "I",
+      "esm_score": -1.2327,
+      "n_muts": 1
+    },
+    {
+      "mutation": "I145F",
+      "resnum": 145,
+      "wt_aa": "I",
+      "mut_aa": "F",
+      "esm_score": -1.248,
+      "n_muts": 1
+    },
+    {
+      "mutation": "A82L",
+      "resnum": 82,
+      "wt_aa": "A",
+      "mut_aa": "L",
+      "esm_score": -1.2654,
+      "n_muts": 1
+    },
+    {
+      "mutation": "V68L",
+      "resnum": 68,
+      "wt_aa": "V",
+      "mut_aa": "L",
+      "esm_score": -1.2711,
+      "n_muts": 1
+    },
+    {
+      "mutation": "V156A",
+      "resnum": 156,
+      "wt_aa": "V",
+      "mut_aa": "A",
+      "esm_score": -1.2885,
+      "n_muts": 1
+    },
+    {
+      "mutation": "V68I",
+      "resnum": 68,
+      "wt_aa": "V",
+      "mut_aa": "I",
+      "esm_score": -1.2967,
+      "n_muts": 1
+    },
+    {
+      "mutation": "T198V",
+      "resnum": 198,
+      "wt_aa": "T",
+      "mut_aa": "V",
+      "esm_score": -1.3626,
+      "n_muts": 1
+    },
+    {
+      "mutation": "G79P+M262L",
+      "resnum": [
+        79,
+        262
+      ],
+      "mut_aa": [
+        "P",
+        "L"
+      ],
+      "esm_score": -0.3167,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+G98A",
+      "resnum": [
+        79,
+        98
+      ],
+      "mut_aa": [
+        "P",
+        "A"
+      ],
+      "esm_score": -0.4907,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+M258F",
+      "resnum": [
+        79,
+        258
+      ],
+      "mut_aa": [
+        "P",
+        "F"
+      ],
+      "esm_score": -0.5352,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+N173D",
+      "resnum": [
+        79,
+        173
+      ],
+      "mut_aa": [
+        "P",
+        "D"
+      ],
+      "esm_score": -0.6217,
+      "n_muts": 2
+    },
+    {
+      "mutation": "M262L+G98A",
+      "resnum": [
+        262,
+        98
+      ],
+      "mut_aa": [
+        "L",
+        "A"
+      ],
+      "esm_score": -0.6642,
+      "n_muts": 2
+    },
+    {
+      "mutation": "M262L+M258F",
+      "resnum": [
+        262,
+        258
+      ],
+      "mut_aa": [
+        "L",
+        "F"
+      ],
+      "esm_score": -0.7087,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+I81V",
+      "resnum": [
+        79,
+        81
+      ],
+      "mut_aa": [
+        "P",
+        "V"
+      ],
+      "esm_score": -0.7554,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+G66A",
+      "resnum": [
+        79,
+        66
+      ],
+      "mut_aa": [
+        "P",
+        "A"
+      ],
+      "esm_score": -0.7582,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+A179V",
+      "resnum": [
+        79,
+        179
+      ],
+      "mut_aa": [
+        "P",
+        "V"
+      ],
+      "esm_score": -0.7886,
+      "n_muts": 2
+    },
+    {
+      "mutation": "M262L+N173D",
+      "resnum": [
+        262,
+        173
+      ],
+      "mut_aa": [
+        "L",
+        "D"
+      ],
+      "esm_score": -0.7952,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+I145L",
+      "resnum": [
+        79,
+        145
+      ],
+      "mut_aa": [
+        "P",
+        "L"
+      ],
+      "esm_score": -0.8381,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+F261Y",
+      "resnum": [
+        79,
+        261
+      ],
+      "mut_aa": [
+        "P",
+        "Y"
+      ],
+      "esm_score": -0.8731,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G98A+M258F",
+      "resnum": [
+        98,
+        258
+      ],
+      "mut_aa": [
+        "A",
+        "F"
+      ],
+      "esm_score": -0.8827,
+      "n_muts": 2
+    },
+    {
+      "mutation": "M262L+I81V",
+      "resnum": [
+        262,
+        81
+      ],
+      "mut_aa": [
+        "L",
+        "V"
+      ],
+      "esm_score": -0.9289,
+      "n_muts": 2
+    },
+    {
+      "mutation": "M262L+G66A",
+      "resnum": [
+        262,
+        66
+      ],
+      "mut_aa": [
+        "L",
+        "A"
+      ],
+      "esm_score": -0.9317,
+      "n_muts": 2
+    },
+    {
+      "mutation": "M262L+A179V",
+      "resnum": [
+        262,
+        179
+      ],
+      "mut_aa": [
+        "L",
+        "V"
+      ],
+      "esm_score": -0.9621,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G98A+N173D",
+      "resnum": [
+        98,
+        173
+      ],
+      "mut_aa": [
+        "A",
+        "D"
+      ],
+      "esm_score": -0.9692,
+      "n_muts": 2
+    },
+    {
+      "mutation": "G79P+S169A",
+      "resnum": [
+        79,
+        169
+      ],
+      "mut_aa": [
+        "P",
+        "A"
+      ],
+      "esm_score": -0.9783,
+      "n_muts": 2
+    },
+    {
+      "mutation": "M262L+I145L",
+      "resnum": [
+        262,
+        145
+      ],
+      "mut_aa": [
+        "L",
+        "L"
+      ],
+      "esm_score": -1.0116,
+      "n_muts": 2
+    },
+    {
+      "mutation": "M258F+N173D",
+      "resnum": [
+        258,
+        173
+      ],
+      "mut_aa": [
+        "F",
+        "D"
+      ],
+      "esm_score": -1.0137,
+      "n_muts": 2
+    }
+  ]
+}

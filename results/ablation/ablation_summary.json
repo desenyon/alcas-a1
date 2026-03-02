@@ -1,0 +1,14 @@
+{
+  "active_site_mean_ddg": -0.0145,
+  "active_site_std_ddg": 0.9978,
+  "distance_only_mean_ddg": 1.1885,
+  "distance_only_std_ddg": 2.2215,
+  "coupling_filtered_mean_ddg": -0.581,
+  "coupling_filtered_std_ddg": 0.7498,
+  "delta_cf_vs_do": -1.7695,
+  "ci_95_lo": -2.8729,
+  "ci_95_hi": -0.7908,
+  "p_cf_vs_do": 0.000558,
+  "p_cf_vs_as": 0.031946,
+  "p_do_vs_as": 0.961785
+}

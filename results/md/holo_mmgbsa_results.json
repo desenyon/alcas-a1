@@ -1,0 +1,9 @@
+{
+  "candidates": [],
+  "allosteric_mmgbsa": null,
+  "active_site_mmgbsa": null,
+  "wt_mmgbsa": null,
+  "delta_allo_vs_as": null,
+  "delta_allo_vs_wt": null,
+  "method": "LJ interaction energy proxy, 2ns holo OpenMM, AMBER14+GAFF2, CUDA"
+}

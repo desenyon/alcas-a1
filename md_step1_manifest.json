@@ -1,0 +1,63 @@
+{
+  "trajectories": {
+    "rep1": {
+      "topology_exists": true,
+      "topology_mb": 32.31,
+      "traj_exists": true,
+      "traj_mb": 4787.01
+    },
+    "rep2": {
+      "topology_exists": true,
+      "topology_mb": 32.31,
+      "traj_exists": true,
+      "traj_mb": 4787.01
+    },
+    "rep3": {
+      "topology_exists": true,
+      "topology_mb": 32.31,
+      "traj_exists": true,
+      "traj_mb": 4787.01
+    }
+  },
+  "mdanalysis": "2.10.0",
+  "rep1_frames": 1000,
+  "rep1_atoms": 398911,
+  "triad_atoms_found": 0,
+  "foldx_allosteric_n": 3,
+  "foldx_active_site_n": 3,
+  "existing_manifest": {
+    "pdb": "data/petase/5XJH_fixed.pdb",
+    "n_replicates": 3,
+    "prod_ns": 10.0,
+    "total_ns": 30.0,
+    "total_frames": 3000,
+    "elapsed_min": 1086.1377722700438,
+    "replicates": [
+      {
+        "dcd": "data/petase/md/rep1_traj.dcd",
+        "topology": "data/petase/md/rep1_topology.pdb",
+        "log": "data/petase/md/rep1_md.log",
+        "elapsed_min": 251.29457499583563,
+        "n_frames": 1000,
+        "seed": 42
+      },
+      {
+        "dcd": "data/petase/md/rep2_traj.dcd",
+        "topology": "data/petase/md/rep2_topology.pdb",
+        "log": "data/petase/md/rep2_md.log",
+        "elapsed_min": 253.09244401454924,
+        "n_frames": 1000,
+        "seed": 7
+      },
+      {
+        "dcd": "data/petase/md/rep3_traj.dcd",
+        "topology": "data/petase/md/rep3_topology.pdb",
+        "log": "data/petase/md/rep3_md.log",
+        "elapsed_min": 252.69957624673845,
+        "n_frames": 1000,
+        "seed": 13
+      }
+    ]
+  },
+  "all_ok": true
+}
